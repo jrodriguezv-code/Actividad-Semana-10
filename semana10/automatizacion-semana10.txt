@@ -1,0 +1,45 @@
+AUTOMATIZACIÓN - SEMANA 10
+==========================
+
+FLUJO SIMPLE DE AUTOMATIZACIÓN CON N8N Y TELEGRAM
+
+1. ¿QUÉ EVENTO ACTIVA EL FLUJO?
+
+   El evento que activa el flujo es: NUEVO REPORTE REGISTRADO
+   
+   Cuando un ciudadano completa el formulario de incidencia y presiona "Enviar",
+   el sistema detecta automáticamente que hay un nuevo reporte en la base de datos
+   y dispara el flujo de automatización.
+
+
+2. ¿QUÉ MENSAJE SE ENVIARÍA A TELEGRAM?
+
+   Mensaje que se envía al coordinador:
+   
+   " NUEVO REPORTE RECIBIDO
+   
+   ID Reporte: #REC-2024-001
+   Fecha: 2024-01-15 14:30
+   Categoría: Servicios Públicos
+   Ubicación: Sector Centro - Zona 3
+   Descripción: Falta de agua en la zona residencial
+   Urgencia: Media
+   
+   Revisar en el sistema: www.veeduría.local"
+
+
+3. ¿QUÉ INFORMACIÓN NO DEBERÍA ENVIARSE POR SEGURIDAD?
+
+   Información PROHIBIDA de enviar en el mensaje de Telegram:
+   
+   • Nombres completos del reportante
+   • Números de documentos de identidad (cédula, pasaporte)
+   • Direcciones específicas del reportante
+   • Números telefónicos privados
+   • Claves o credenciales de acceso
+   • Datos bancarios o información financiera
+   • Información médica o sensible
+   • Fotografías que identifiquen a personas
+
+   La idea es que el mensaje sea informativo pero proteja la privacidad
+   de los ciudadanos que reportan.

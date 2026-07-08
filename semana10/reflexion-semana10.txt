@@ -1,0 +1,53 @@
+REFLEXIÓN - SEMANA 10
+=====================
+
+¿QUÉ APRENDÍ ESTA SEMANA?
+
+Esta semana comprendí la importancia de estructurar un proyecto desde sus fundamentos.
+No se trata solo de empezar a programar, sino de entender primero QUÉ necesitamos,
+QUIÉN lo necesita y POR QUÉ es importante.
+
+CONCEPTOS CLAVE:
+
+1. El Backlog es el corazón del proyecto
+   Aprendí que un buen backlog no es solo una lista de tareas, sino una guía clara
+   de prioridades. Las historias de usuario ayudan a entender el valor real que 
+   aportamos a cada rol (ciudadano, coordinador, analista).
+
+2. La Iteración define el ritmo de trabajo
+   Entender qué es una tarea "terminada" es crucial. No es suficiente que funcione,
+   debe ser probada y documentada. Esto evita que más adelante tengamos sorpresas
+   desagradables.
+
+3. La Automatización multiplica el impacto
+   Usar herramientas como N8N + Telegram no es lujo, es necesidad. Permitir que
+   los coordinadores reciban alertas instantáneamente cambia completamente la
+   velocidad de respuesta del sistema.
+
+4. La seguridad debe ser prioritaria desde el inicio
+   No podemos esperar a "asegurar después". Desde el primer flujo de automatización,
+   debemos pensar en qué datos son sensibles y cómo protegerlos.
+
+¿CÓMO APLICARÉ ESTO?
+
+En futuros proyectos usaré este enfoque:
+- Empezar con historias de usuario claras
+- Definir criterios de aceptación explícitos
+- Pensar en automatización desde el diseño
+- Considerar privacidad y seguridad como requisitos, no como añadidos
+
+¿QUÉ ME LLEVÓ MÁS TIEMPO ENTENDER?
+
+Al principio confundía "historia de usuario" con "tarea técnica". Ahora entiendo
+que una historia de usuario es desde la perspectiva del que usa el sistema,
+no del que lo construye. Esto cambió mi manera de pensar en los requisitos.
+
+CONCLUSIÓN:
+
+La veeduría ciudadana es un ejemplo perfecto de por qué la tecnología bien aplicada
+importa. No es solo sobre registrar reportes, sino sobre crear un sistema que:
+- Facilite que ciudadanos participen (sin miedo)
+- Permita que coordinadores actúen rápido (con alertas)
+- Proteja privacidad (sin enviar datos sensibles)
+- Deje evidencia (registrado en Git)
+

@@ -1,0 +1,19 @@
+BACKLOG - SEMANA 10
+===================
+
+HISTORIAS DE USUARIO (Ordenadas por prioridad - Mayor a Menor)
+
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+   Prioridad: ALTA
+
+2. Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo reporte.
+   Prioridad: ALTA
+
+3. Como miembro del equipo quiero consultar reportes para hacer seguimiento.
+   Prioridad: ALTA
+
+4. Como administrador quiero asignar roles a los usuarios para controlar permisos de acceso.
+   Prioridad: MEDIA
+
+5. Como analista quiero exportar reportes en PDF para compartir con autoridades.
+   Prioridad: MEDIA

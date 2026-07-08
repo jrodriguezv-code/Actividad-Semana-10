@@ -1,0 +1,27 @@
+ITERACIÓN - SEMANA 10
+====================
+
+1. ¿QUÉ 2 TAREAS DEL BACKLOG HARÍAS PRIMERO?
+
+   - Tarea 1: Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+   - Tarea 2: Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo reporte.
+
+
+2. ¿POR QUÉ SON LAS MÁS IMPORTANTES?
+
+   Porque estas dos tareas son la columna vertebral del sistema de veeduría:
+   - La tarea 1 es el punto de entrada para que los ciudadanos reporten problemas.
+   - La tarea 2 asegura que los coordinadores sean notificados inmediatamente para actuar rápido.
+   - Sin estas dos, no hay forma de capturar ni gestionar incidencias de manera efectiva.
+   - Son funcionalidades críticas que permiten que el resto del sistema funcione.
+
+
+3. ¿QUÉ SIGNIFICA PARA TI QUE UNA TAREA ESTÁ "TERMINADA"?
+
+   Una tarea está terminada cuando cumple estos criterios:
+
+   • Funciona - La funcionalidad implementada cumple con los requisitos solicitados y se ejecuta sin errores.
+   
+   • Fue probada - Se realizaron pruebas manuales o automatizadas para verificar que funciona correctamente en diferentes escenarios.
+   
+   • Quedó registrada en Git - El código fue commitido y pusheado al repositorio con un mensaje claro y descriptivo.
